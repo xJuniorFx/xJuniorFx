@@ -5,7 +5,7 @@ Atualmente estudando Typescript. Analista e Desenvolvedor de Sistema em andament
 ---
 
 
-### 🧰 Linguas de programação
+### 🧰 Tecnologias
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
