@@ -21,15 +21,6 @@ Atualmente estudando Typescript. Analista e Desenvolvedor de Sistema em andament
 
 #
 
-### 📊 Stats
- 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xJuniorFx&show_icons=true&theme=tokyonight)
-<br>
-
-#
-
-
- 
 
 <div>
 
