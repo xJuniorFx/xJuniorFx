@@ -1,6 +1,6 @@
 # Olá eu sou Junior Fernandes, Sou Desenvolvedor Front-End 
 
-Atualmente estudando Typescript. Analista e Desenvolvedor de Sistema em andamento na Faculdade Unisul. Em 2022 iniciei meus cursos na Alura e vários projetos concluídos no Github, agora busco uma oportunidade de iniciar a minha carreira no universo da programação, sou proativo, esforçado e trabalho bem em equipe, estou sempre disposto a aprender coisas novas. fluente em inglês.
+Atualmente estudando Typescript. Estou cursando Análise e Desenvolvedor de Sistema na Faculdade Unisul. Em 2022 iniciei meus cursos na Alura e vários projetos concluídos no Github, agora busco uma oportunidade de iniciar a minha carreira no universo da programação, sou proativo, esforçado e trabalho bem em equipe, estou sempre disposto a aprender coisas novas. fluente em inglês.
 
 ---
 
