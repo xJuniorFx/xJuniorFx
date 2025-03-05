@@ -1,6 +1,6 @@
-# Olá eu sou Junior Fernandes, Sou Desenvolvedor Front-End 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&width=435&lines=Loading...;+Junior+Fernandes+%7C+Front-End+Dev+%F0%9F%94%84;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 
-Atualmente estudando Typescript. Estou cursando Análise e Desenvolvedor de Sistema na Faculdade Unisul. Em 2022 iniciei meus cursos na Alura e vários projetos concluídos no Github, agora busco uma oportunidade de iniciar a minha carreira no universo da programação, sou proativo, esforçado e trabalho bem em equipe, estou sempre disposto a aprender coisas novas. fluente em inglês.
+Passionate about technology and obsessed with clean, efficient code. I build, break, and fix things until they work flawlessly. From front-end magic with React and TypeScript to diving into full-stack solutions, I’m always pushing my limits.  
 
 ---
 
