@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loading...+;Junior+Fernandes+%7C+Front-End+Dev+;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Loading...+;Junior+Fernandes+%7C+Web+Developer+;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" /></a>
 
 ---
 
